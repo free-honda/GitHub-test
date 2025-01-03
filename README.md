@@ -1,2 +1,2 @@
 # GitHub-test
-プルリクエスト（Pull Request）-test
+プルリクエスト（Pull Request）もろもろのテスト検証
